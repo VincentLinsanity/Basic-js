@@ -17,3 +17,12 @@ Current Version: 0.0.0
 - Grammar
 - Async & Performances
 - Others
+
+#Types
+- Undefined
+- Null
+- Boolean
+- String
+- Number
+- Object
+- Symbol (ES6)
