@@ -1,0 +1,6 @@
+if (!Number.isNaN) {
+  Number.isNaN = function isNaN(x) {
+    return x !== x;
+  };
+}
+// NaN is the only one that the value not equal itself
